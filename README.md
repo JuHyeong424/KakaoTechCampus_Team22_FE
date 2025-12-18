@@ -18,6 +18,8 @@
 - **환경 데이터**: 현재 기온, 습도, 미세먼지(PM2.5) 농도는 물론, 반려견의 발바닥 보호를 위한 '아스팔트 예측 온도'까지 계산에 포함합니다.
 - **경로 데이터**: 길의 종류(아스팔트, 흙길, 잔디)와 경사도를 분석합니다.
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/287eafa3-abd4-4181-9028-f18a9cc1a86e" />
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/5352a42c-481e-4e50-abf8-ff8cd9a3533f" />
+
 
 ## 3. 산책 위험 지수
 - 현재 날씨 상태가 산책에 적합한지 '쾌적', '주의', '위험', '매우 위험' 등급으로 명확하게 알려주어 안전한 산책 결정을 돕습니다.
